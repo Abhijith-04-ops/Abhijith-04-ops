@@ -19,11 +19,11 @@ I am currently pursuing my Master's in Data Science at Vellore Institute of Tech
 - Auto Enthusiast
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abhijithpv-zedvega)
-- Email: abhijithsreejith04@gmail.com
+- Connect me through [LinkedIn](https://www.linkedin.com/in/abhijithpv-zedvega)
+- Reach me on [Email](abhijithsreejith04@gmail.com)
 
 ### 📝 Fun Fact
-"Welcome to the infinite loop of coding."
+"When you solve on bug you get another three. Welcome to the loop of coding 😈😈"
 
 ---
 Feel free to explore my repositories and connect for collaborations!
