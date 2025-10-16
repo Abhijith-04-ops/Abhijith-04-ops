@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there! I'm Abhijith PV
 
-<!--
-**Abhijith-04-ops/Abhijith-04-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — and as I like to say, "Welcome to the infinite loop of coding and coding and coding, actually a lot of coding !"
 
-Here are some ideas to get you started:
+### 🎓 About Me
+I am currently pursuing my Master's in Data Science at Vellore Institute of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Top Skills
+- Python
+- Machine Learning
+- SQL
+- Data Visualization
+- Deep Learning
+- Timeseries Forecasting
+- Data Cleaning & Feature Extraction
+
+### 🌱 Interests
+- Travelling
+- Auto Enthusiast
+
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abhijithpv-zedvega)
+- Email: abhijithsreejith04@gmail.com
+
+### 📝 Fun Fact
+"Welcome to the infinite loop of coding."
+
+---
+Feel free to explore my repositories and connect for collaborations!
