@@ -13,6 +13,8 @@ I am currently pursuing my Master's in Data Science at Vellore Institute of Tech
 - **Deep Learning**
 - **Timeseries Forecasting**
 - **Data Cleaning & Feature Extraction**
+- **Gen - AI**
+- **Prompt Engineering**
 
 ### 🌱 Interests
 - **Travelling**
